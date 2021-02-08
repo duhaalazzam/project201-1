@@ -1,0 +1,17 @@
+*{
+    background-color: linen;
+}
+h1{
+    font-size:xx-large;
+    color: rgb(122, 21, 21);
+    background-color: darksalmon;
+}
+#text{
+    font-size: large;
+    color: rgb(11, 12, 116);
+    background-color: lightpink;
+}
+img{
+    width: 400px;
+    height: 300px;
+}
