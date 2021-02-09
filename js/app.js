@@ -82,11 +82,11 @@ let correctFlag=0;
 for(let i=0;i<4;i++){
   age=prompt('How old am i do you think?');
   age=parseInt(age);
-  if(age>27 && age<130)
+  if(age>27 && age<=100)
   {
     alert('too high');
     console.log('too high');
-  }else if(age<27 && age>0)
+  }else if(age<27 && age>=4)
   {
     alert('too low');
     console.log('too low');
