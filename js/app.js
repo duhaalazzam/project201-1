@@ -98,7 +98,7 @@ for(let i=0;i<4;i++){
     corNum++;
     break;
   }else{
-    alert('Enter just a number between 1 and 150');
+    alert('Enter just a number between 4 and 100');
     console.log('Enter just a number between 4 and 100 for q6 age qusetion');
   }
 }
