@@ -128,6 +128,11 @@ for(let i=0;i<6;i++)
     break;
   }
   console.log(`try number ${i+1}`);
+  if(i===5)
+  {
+    alert(`Incorrect answer,My favourite colors are ${arr}`);
+    console.log('incorrect q7');
+  }
 }
 console.log(`you have answered ${corNum} correct answres out of 7`);
 alert(`you have answered ${corNum} correct answres out of 7`);
