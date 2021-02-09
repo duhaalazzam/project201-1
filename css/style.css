@@ -6,10 +6,16 @@ h1{
     color: rgb(122, 21, 21);
     background-color: darksalmon;
 }
-#text{
+#bio{
     font-size: large;
     color: rgb(11, 12, 116);
-    background-color: lightpink;
+}
+#Ten{
+    font-size: large;
+    color: rgb(128, 36, 100);
+}
+h3{
+    color: rgb(182, 42, 42);
 }
 img{
     width: 400px;
