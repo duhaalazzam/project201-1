@@ -6,4 +6,4 @@
 
 
 * This is Mohammad Alazzam I was Driver on: [this repo ](https://github.com/duhaalazzam/project201-1/pull/1)
-* This is Mohammad Alazzam I was the navigtor on :[this repo](https://github.com/MohdAzzam/about-me/pull/2)
+* Also I was the navigtor on :[this repo](https://github.com/MohdAzzam/about-me/pull/2)
