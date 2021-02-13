@@ -1,10 +1,13 @@
 *{
     background-color: linen;
+  
 }
 h1{
     font-size:xx-large;
     color: rgb(122, 21, 21);
     background-color: darksalmon;
+    position: relative;
+    left: 100px;
 }
 #bio{
     font-size: large;
@@ -20,4 +23,7 @@ h3{
 img{
     width: 400px;
     height: 300px;
+    position:fixed;
+    top: 200px;
+    left: 300px;
 }
